@@ -9,7 +9,7 @@ The goal of this project is to demonstrate how high-performing, "black-box" mach
 
 ## Repository Contents
 * `diabetes.csv`: The benchmark dataset used for training and evaluation.
-* `xai_code.py` (or `.ipynb`): The main script containing data preprocessing, model training (Logistic Regression, Random Forest, XGBoost), and XAI visualization generation.
+* `XAI_Using_SHAP_Diabetes.ipynb`: The main script containing data preprocessing, model training (Logistic Regression, Random Forest, XGBoost), and XAI visualization generation.
 
 ## Results
 The XGBoost model achieved an AUC of 0.79. The code successfully generates:
